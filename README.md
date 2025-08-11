@@ -1,7 +1,5 @@
 # Multidimensional-Array
 
-# Arrays-And-Strings
-
 # C++ Matrix Manipulations
 
 ## Aim: To study and implement different matrix operations in C++.
